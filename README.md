@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hector Juarez 👋
 
 <!--
 **HectorJuarezL/HectorJuarezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ A little more about me...  
+
+```javascript
+const Hector = {
+  pronouns: 'He' | 'His',
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
+  tools: ['Node', 'Mongo', 'Flask', 'Azure', 'GCP'],
+  areas: ['IoT', 'Chatbots', 'Cloud', 'Data'],
+ challenge: ... '
+}
+```
