@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ```javascript
 const Hector = {
   pronouns: 'He' | 'His',
-  code: ['Python', 'Javascript', 'Java', 'C', 'C++', 'C#', 'SQL' , Go, Matlab, PHP, 'HTML', 'CSS' , 'Julia', 'R'], 
-  tools: ['Tensorflow','Pytorch', 'Node', 'React', 'Flask', Django,  'Mongo', 'GCP', 'Snowflake'],
+  code: ['Python', 'Javascript', 'Java', 'C', 'C++', 'C#', 'SQL' , 'Go', 'Matlab', 'PHP', 'HTML', 'CSS' , 'Julia', 'R'], 
+  tools: ['Tensorflow','Pytorch', 'Node', 'React', 'Flask', 'Django',  'Mongo', 'GCP', 'Snowflake'],
   areas: ['Artificial Intelligence', 'Machine Learning', 'Intertef of Things', 'Cloud', 'Data'],
 }
 ```
