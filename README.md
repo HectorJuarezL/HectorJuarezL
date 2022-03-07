@@ -16,6 +16,6 @@ const Hector = {
 }
 ```
 
-⚡ Fun fact: I started programming when I was 12 years old without realizing what I was doing, I used to program triggers for Warcraft III maps, later, when I was stutying computation at high school I realized I already knew programming, flow control, variables, etc.
+:file_folder: My Machile Learning <a href="https://github.com/HectorJuarezL/machine-learning-codes">Portfolio</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HectorJuarezL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+⚡ Fun fact: I started programming when I was 12 years old without realizing what I was doing, I used to program triggers for Warcraft III maps, later, when I was stutying computation at high school I realized I already knew programming, flow control, variables, etc.
