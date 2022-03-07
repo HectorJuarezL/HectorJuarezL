@@ -1,9 +1,9 @@
 ### Hi there, I'm Hector 👋
 
-<p><em>Master of Science in Computer Science at <a href="https://www.cic.ipn.mx/">CIC - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Master of Science in Computer Science at <a href="https://www.cic.ipn.mx/">CIC - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </br>
 Telematics Enginner at <a href="https://www.upiita.ipn.mx/">UPIITA - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+</p>
 
  A little about me...  
 
