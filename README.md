@@ -1,19 +1,9 @@
-### Hi there, I'm Hector Juarez 👋
+### Hi there, I'm Hector 👋
 
-<!--
-**HectorJuarezL/HectorJuarezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><em>Master of Science in Computer Science at <a href="https://www.cic.ipn.mx/">CIC - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </br>
+Telematics Enginner at <a href="https://www.upiita.ipn.mx/">UPIITA - Instituto Politécnico Nacional</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
  A little about me...  
 
@@ -22,8 +12,10 @@ const Hector = {
   pronouns: 'He' | 'His',
   code: ['Python', 'Javascript', 'Java', 'C', 'C++', 'C#', 'SQL' , 'Go', 'Matlab', 'PHP', 'HTML', 'CSS' , 'Julia', 'R'], 
   tools: ['Tensorflow','Pytorch', 'Node', 'React', 'Flask', 'Django',  'Mongo', 'GCP', 'Snowflake'],
-  areas: ['Artificial Intelligence', 'Machine Learning', 'Internet of Things', 'Cloud', 'Data'],
+  interests: ['Artificial Intelligence', 'Machine Learning', 'IoT', 'Cloud', 'Data'],
 }
 ```
 
 ⚡ Fun fact: I started programming when I was 12 years old without realizing what I was doing, I used to program triggers for Warcraft III maps, later, when I was stutying computation at high school I realized I already knew programming, flow control, variables, etc.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HectorJuarezL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
